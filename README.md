@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lovlesh Pokra
-- 👀 Experienced Software Engineer specialized in building large scale web/mobile applications. I’m keenly interested in doing innovations using JavaScript (FE/BE/Hybrid).
-- 💼 Carrying over 7 years of industry experience ranging from working in startup/small companies to mid/large companies. Have experience leading engineering teams & taking a project from its inception to launching it in production and running various A/B tests on it. 
-- 🖥️ Deals with Javascript, Data Structures, TypeScript, React.js, Node.js, Angular, Vue.js, SASS, Salesforce Lightning, AWS, Docker, Apache Cordova, CSS3, HTML5, Progressive Web Apps, Apex, Webpack, GitHub, and Jira in day to day working. 
+- 👀 Specialized in constructing large-scale web and mobile applications. My keen interest lies in innovating with JavaScript across front-end, back-end, and hybrid platforms.
+- 💼 With more than 9 years of industry experience spanning startups to large corporations, I bring a wealth of knowledge to the table. My expertise includes leading engineering teams, overseeing projects from conception to production launch, and conducting various A/B tests. 
+- 🖥️ Deals with Javascript, Data Structures, TypeScript, React.js, Next.js, Node.js, Angular, Vue.js, SASS, Salesforce Lightning, AWS, Docker, Apache Cordova, CSS3, HTML5, Progressive Web Apps, Apex, Webpack, GitHub, and Jira in day to day working. 
 - 🚀 Always interested in accessibility, performance optimization, debugging, breaking own code, collaboration, 
 - 🌱 I’m currently learning cloud platforms (AWS/Salesforce).
 - 💞️ I’m looking to collaborate on anything that excites you about JavaScript and web technologies.
